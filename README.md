@@ -24,8 +24,8 @@
 
 ### Как поддержать проект  
 Я нахожусь в сложной жизненной ситуации и буду благодарен за любую помощь.  
-- **Карта МИР**: `2204 1201 2381 3848`  
-- **Криптокошелёк (TON)**: `UQCDr7Rt5dOTufNfsS53Im3MjRJ7VAqoXgM5O3F4z9tJMek6`  
+- **Карта МИР**: `2204 1201 2381 3848`
+- %Крипто (TON)%:  "UQBHFAngOx86uh2av0G7oaHiScuKOjGI_zZcD3UrtZKyc5hb" 
 
 Любая сумма поможет автору в его непростой ситуации и позволит дальше развивать проект.  
 
@@ -54,7 +54,8 @@ Key features:
 ### How to Support the Project  
 I am in a difficult life situation and would appreciate any help.  
 - **Card (Russia)**: `2204 1201 2381 3848`  
-- **Crypto Wallet (TON)**: `UQCDr7Rt5dOTufNfsS53Im3MjRJ7VAqoXgM5O3F4z9tJMek6`  
+- %Cripto (TON)%:
+"UQBHFAngOx86uh2av0G7oaHiScuKOjGI_zZcD3UrtZKyc5hb"
 
 Any amount will help the author in his difficult situation and allow further development of the project.  
 
