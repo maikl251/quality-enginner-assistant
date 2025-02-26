@@ -1,4 +1,5 @@
 # quality-enginner-assistant
+industry4.0, quality-control, predictive-analytics, linear-regression, data-visualization, smart-manufacturing, industrial-automation, defect-detection, iiot, data-science, python, machine-learning-basics, quality-engineering, production-optimization, heatmap-analysis
 ```markdown
 # Умный помощник инженера по качеству / Smart Assistant for Quality Engineers  
 **Платформа для анализа данных в Industry 4.0**  
