@@ -32,7 +32,8 @@ industry4.0, quality-control, predictive-analytics, linear-regression, data-visu
 
 ### Контакты  
 Если у вас есть вопросы или предложения, напишите мне на почту:  
-**msibirov44@yandex.ru**  
+**msibirov44@yandex.ru**
+- Telegram: [@maikl251zzz](https://t.me/maikl251zzz)    
 
 ---
 
@@ -62,8 +63,8 @@ Any amount will help the author in his difficult situation and allow further dev
 
 ### Contacts  
 If you have any questions or suggestions, please email me:  
-**msibirov44@yandex.ru**  
-
+**msibirov44@yandex.ru**   
+- Telegram: [@maikl251zzz](https://t.me/maikl251zzz)    
 ---
 
 ### Лицензия / License  
